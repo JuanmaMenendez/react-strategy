@@ -3,6 +3,7 @@ import { shade } from 'polished';
 
 import { IWrapperInputProps } from './IModalAddPerson';
 
+// new feature 1
 export const Container = styled.div`
   width: 100%;
 
