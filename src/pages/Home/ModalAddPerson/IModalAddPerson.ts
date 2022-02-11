@@ -4,6 +4,7 @@ export interface IWrapperInputProps {
   maxWidth?: number;
 }
 
+// modal bug fix
 export interface IModalAddPersonProps {
   instanceModal(): IModalContextData;
 }
