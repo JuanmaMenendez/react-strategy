@@ -8,6 +8,7 @@ import Routes from './routes';
 
 import './miragejs';
 
+// new feature
 function App() {
   return (
     <AppProvider>
