@@ -1,3 +1,15 @@
+# [1.4.0](https://github.com/JuanmaMenendez/react-strategy/compare/v1.3.0...v1.4.0) (2022-02-11)
+
+
+### Bug Fixes
+
+* **components:** axios library connection ([fd0dcc3](https://github.com/JuanmaMenendez/react-strategy/commit/fd0dcc37aa416981599a8c4eb1378d407e3bec2e))
+
+
+### Features
+
+* **main app:** add feature A ([12b8a85](https://github.com/JuanmaMenendez/react-strategy/commit/12b8a85ab160fc891a379c4328d93725f5e3b718))
+
 # [1.3.0](https://github.com/lucas-eduardo/react-strategy/compare/v1.2.0...v1.3.0) (2020-11-25)
 
 
