@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/JuanmaMenendez/react-strategy/compare/v1.4.0...v1.4.1) (2022-02-11)
+
+
+### Bug Fixes
+
+* fix IModal bug ([2986522](https://github.com/JuanmaMenendez/react-strategy/commit/2986522ff4e0416bd6bbf7f9f9259c7d5980bbc3))
+
 # [1.4.0](https://github.com/JuanmaMenendez/react-strategy/compare/v1.3.0...v1.4.0) (2022-02-11)
 
 
