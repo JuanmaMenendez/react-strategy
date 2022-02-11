@@ -1,3 +1,15 @@
+# [1.5.0](https://github.com/JuanmaMenendez/react-strategy/compare/v1.4.1...v1.5.0) (2022-02-11)
+
+
+### Bug Fixes
+
+* **user:** fix user login ([6a0d7a6](https://github.com/JuanmaMenendez/react-strategy/commit/6a0d7a6961f5d11f397056cb86726341749416a9))
+
+
+### Features
+
+* add feature C ([07ff879](https://github.com/JuanmaMenendez/react-strategy/commit/07ff8792e664dfa61ffb21b221c1a2514e85f549))
+
 ## [1.4.1](https://github.com/JuanmaMenendez/react-strategy/compare/v1.4.0...v1.4.1) (2022-02-11)
 
 
