@@ -1,3 +1,81 @@
+# [1.6.0](https://github.com/JuanmaMenendez/react-strategy/compare/v1.5.0...v1.6.0) (2022-02-13)
+
+
+### Bug Fixes
+
+* add this is a change ([e9105e3](https://github.com/JuanmaMenendez/react-strategy/commit/e9105e380be82bec6327b91e1146b0f597fe874b))
+* fix npm start broken, updating cra and ts libraries ([e3d0a33](https://github.com/JuanmaMenendez/react-strategy/commit/e3d0a33dbf1cd26615358c37e1b6bcc0f48041c7))
+
+
+### Features
+
+* add commitlint ([c2e2e9b](https://github.com/JuanmaMenendez/react-strategy/commit/c2e2e9b0830a285090fc1427dee27d777fd2f029))
+
+# [1.6.0](https://github.com/JuanmaMenendez/react-strategy/compare/v1.5.0...v1.6.0) (2022-02-13)
+
+
+### Bug Fixes
+
+* add this is a change ([e9105e3](https://github.com/JuanmaMenendez/react-strategy/commit/e9105e380be82bec6327b91e1146b0f597fe874b))
+* fix npm start broken, updating cra and ts libraries ([e3d0a33](https://github.com/JuanmaMenendez/react-strategy/commit/e3d0a33dbf1cd26615358c37e1b6bcc0f48041c7))
+
+
+### Features
+
+* add commitlint ([c2e2e9b](https://github.com/JuanmaMenendez/react-strategy/commit/c2e2e9b0830a285090fc1427dee27d777fd2f029))
+
+# [1.6.0](https://github.com/JuanmaMenendez/react-strategy/compare/v1.5.0...v1.6.0) (2022-02-13)
+
+
+### Bug Fixes
+
+* add this is a change ([e9105e3](https://github.com/JuanmaMenendez/react-strategy/commit/e9105e380be82bec6327b91e1146b0f597fe874b))
+* fix npm start broken, updating cra and ts libraries ([e3d0a33](https://github.com/JuanmaMenendez/react-strategy/commit/e3d0a33dbf1cd26615358c37e1b6bcc0f48041c7))
+
+
+### Features
+
+* add commitlint ([c2e2e9b](https://github.com/JuanmaMenendez/react-strategy/commit/c2e2e9b0830a285090fc1427dee27d777fd2f029))
+
+# [1.6.0](https://github.com/JuanmaMenendez/react-strategy/compare/v1.5.0...v1.6.0) (2022-02-13)
+
+
+### Bug Fixes
+
+* add this is a change ([e9105e3](https://github.com/JuanmaMenendez/react-strategy/commit/e9105e380be82bec6327b91e1146b0f597fe874b))
+* fix npm start broken, updating cra and ts libraries ([e3d0a33](https://github.com/JuanmaMenendez/react-strategy/commit/e3d0a33dbf1cd26615358c37e1b6bcc0f48041c7))
+
+
+### Features
+
+* add commitlint ([c2e2e9b](https://github.com/JuanmaMenendez/react-strategy/commit/c2e2e9b0830a285090fc1427dee27d777fd2f029))
+
+# [1.6.0](https://github.com/JuanmaMenendez/react-strategy/compare/v1.5.0...v1.6.0) (2022-02-13)
+
+
+### Bug Fixes
+
+* add this is a change ([e9105e3](https://github.com/JuanmaMenendez/react-strategy/commit/e9105e380be82bec6327b91e1146b0f597fe874b))
+* fix npm start broken, updating cra and ts libraries ([e3d0a33](https://github.com/JuanmaMenendez/react-strategy/commit/e3d0a33dbf1cd26615358c37e1b6bcc0f48041c7))
+
+
+### Features
+
+* add commitlint ([c2e2e9b](https://github.com/JuanmaMenendez/react-strategy/commit/c2e2e9b0830a285090fc1427dee27d777fd2f029))
+
+# [1.6.0](https://github.com/JuanmaMenendez/react-strategy/compare/v1.5.0...v1.6.0) (2022-02-13)
+
+
+### Bug Fixes
+
+* add this is a change ([e9105e3](https://github.com/JuanmaMenendez/react-strategy/commit/e9105e380be82bec6327b91e1146b0f597fe874b))
+* fix npm start broken, updating cra and ts libraries ([e3d0a33](https://github.com/JuanmaMenendez/react-strategy/commit/e3d0a33dbf1cd26615358c37e1b6bcc0f48041c7))
+
+
+### Features
+
+* add commitlint ([c2e2e9b](https://github.com/JuanmaMenendez/react-strategy/commit/c2e2e9b0830a285090fc1427dee27d777fd2f029))
+
 # [1.5.0](https://github.com/JuanmaMenendez/react-strategy/compare/v1.4.1...v1.5.0) (2022-02-11)
 
 

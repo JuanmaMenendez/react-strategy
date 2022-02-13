@@ -1,89 +1,44 @@
-<h1 align="center">
-  <img
-    alt="React Strategy"
-    title="React Strategy"
-    src=".github/strategy.png"
-    width="250" />
-</h1>
 
-<p align="center">
-  <img
-    alt="GitHub language count"
-    src="https://img.shields.io/github/languages/count/lucas-eduardo/react-strategy?color=%2304D361">
+## 💻 Desciption
 
-  <img
-    alt="Repository size"
-    src="https://img.shields.io/github/repo-size/lucas-eduardo/react-strategy">
+This is a project to test commitzen, commitlint and semantic-release.
 
-  <a href="https://www.linkedin.com/in/lucasdeveloperti/">
-    <img
-      alt="Made by Lucas Eduardo"
-      src="https://img.shields.io/badge/made%20by-Lucas Eduardo-%2304D361">
-  </a>
 
-  <a href="https://github.com/lucas-eduardo/react-strategy/commits/master">
-    <img
-      alt="GitHub last commit"
-      src="https://img.shields.io/github/last-commit/lucas-eduardo/react-strategy">
-  </a>
+## 📦 Pre-requisites
 
-  <img
-    alt="License"
-    src="https://img.shields.io/badge/license-MIT-brightgreen">
+In order semantic-release to work the CI/CD pipeline of Github needs to work so a proper github token is needed.
 
-   <a href="https://github.com/lucas-eduardo/react-strategy/stargazers">
-    <img
-      alt="Stargazers"
-      src="https://img.shields.io/github/stars/lucas-eduardo/react-strategy?style=social">
-  </a>
-</p>
+- Create a token and copy the value https://github.com/settings/tokens
 
-## 💻 Sobre
+- Set the value in:
 
-Aplicação iniciada com create-react-app e implementado o padrão comportamental strategy.
-Foi criado uma api fake com o json-server para poder ser realizado toda a arquitetura de exemplo.
+a) ".env.local" file (created if it doesnt exist, I am not 100% sure this file is needed) 
+   GITHUB_TOKEN=xxxxxx
 
----
+b) in the gitpod enviroment if I am using it, add in the console:
 
-## 🛠 Tecnologia
+   gp env GITHUB_TOKEN=xxxxxxxx
+   eval $(gp env -e)
 
-Foi utilizado o [ReactJS][reactjs] utilizando o CRA [TypeScript][typescript].
 
----
 
-#### Pré-requisitos
+### 🧭 Run the app
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git][git] e [Node.js][nodejs].
-Além disto é bom ter um editor para trabalhar com o código como [VSCode][vscode]
-
----
-
-### 🧭 Clonando o projeto
-
-```bash
-# Clone este repositório
-$ git clone https://github.com/lucas-eduardo/react-strategy
-
-# Acesse a pasta do projeto no seu terminal/cmd
-$ cd react-strategy
-```
-
-### 🧭 Rodando a aplicação
-
-```bash
-# Instale as dependências
 $ npm install
-
-# Execute a aplicação em modo de desenvolvimento
 $ npm start
 
-# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
-```
 
-[nodejs]: https://nodejs.org/
-[git]: https://git-scm.com
-[typescript]: https://www.typescriptlang.org/
-[reactjs]: https://reactjs.org
-[vscode]: https://code.visualstudio.com/
-[license]: https://opensource.org/licenses/MIT
+### ⚒️ Test the tools
+
+Make any change in a file
+git add .
+
+//test commitzen
+npm run commit
+
+//test commitlint
+git commit -m 'this is an incorrect message format'
+
+//test semantic-release (check the changelog file, the published package and the project version)
+npm run release
+
