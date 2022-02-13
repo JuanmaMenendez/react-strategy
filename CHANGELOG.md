@@ -1,3 +1,10 @@
+## [1.6.1](https://github.com/JuanmaMenendez/react-strategy/compare/v1.6.0...v1.6.1) (2022-02-13)
+
+
+### Bug Fixes
+
+* fix "npm run release" compatibility "long body messag ([092283e](https://github.com/JuanmaMenendez/react-strategy/commit/092283e36ffc29f1d795233a2fb4fe8aadb4e1f7))
+
 # [1.6.0](https://github.com/JuanmaMenendez/react-strategy/compare/v1.5.0...v1.6.0) (2022-02-13)
 
 
